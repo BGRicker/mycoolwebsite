@@ -1,0 +1,19 @@
+current directory: /Users/bricker/Code/p/Udemy/rails/portfolio/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+/Users/bricker/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20171112-53784-nq0ii2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/bricker/Code/p/Udemy/rails/portfolio/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/bricker/Code/p/Udemy/rails/portfolio/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/bricker/Code/p/Udemy/rails/portfolio/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20171112-53784-160r3uq/byebug
